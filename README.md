@@ -16,7 +16,7 @@ The workspace contains two folders by default, where:
 2. Clone or import your fork to your development environment (i.e repl.it or VS Code)
 3. In your local repository, add an upstream remote by entering the following in the terminal. 
 ```
-git remote add upstream https://github.com/SACHSTech/Fabroa-ICS4U-NotesExamples.git
+git remote add upstream https://github.com/davecheng-tech/ICS4U-Notes-Template
 ```
 
 ### Getting Updates from the parent fork
