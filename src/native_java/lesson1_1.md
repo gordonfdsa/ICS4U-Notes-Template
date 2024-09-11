@@ -9,10 +9,6 @@
 * [File Output](#file-output)  
  
 
-
-
-
-
 ## Compiling and Running Java Programs
 Running a java program is a two-step process consisting of compiling a program and then running it.
 
@@ -46,7 +42,7 @@ Try compiling and running Example1_1_1.java
 ```
 javac -d bin src/native_java/Example1_1_1.java
 java -classpath bin native_java.Example1_1_1
-``
+```
 
 ## System Input and Output
 In grade 11, a CodeHS library was used to simplify keyboard input and screen output.  We will now move off of this library and utilize the input and output commands native to java.
