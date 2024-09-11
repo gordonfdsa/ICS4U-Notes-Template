@@ -1,6 +1,6 @@
 
-# St. Augustine CHS - ICS4U, Mr. Fabroa
-Notes and Examples for Mr. Fabroa's ICS4U Class
+# St. Augustine CHS - ICS4U
+Notes and examples for ICS4U
 
 
 ## Folder Structure
