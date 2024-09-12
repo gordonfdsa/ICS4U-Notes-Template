@@ -11,7 +11,6 @@ public class Example1_1_3 {
 
 		System.out.println("How old are you?");
 		intAge = Integer.parseInt(key.readLine());
-  
 
 		intDays = intAge * 365;
 
