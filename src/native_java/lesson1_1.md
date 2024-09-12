@@ -9,10 +9,6 @@
 * [File Output](#file-output)  
  
 
-
-
-
-
 ## Compiling and Running Java Programs
 Running a java program is a two-step process consisting of compiling a program and then running it.
 
